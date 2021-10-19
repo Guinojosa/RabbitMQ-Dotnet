@@ -25,6 +25,7 @@ namespace NewTask
             }
             Console.WriteLine(" Press [enter] to exit.");
             Console.ReadLine();
+            
         }
         private static string GetMessage(string[] args)
         {
